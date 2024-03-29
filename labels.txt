@@ -1,0 +1,4 @@
+0 fresh cotton plant
+1 fresh cotton leaf
+2 diseased cotton plant
+3 diseased cotton leaf
